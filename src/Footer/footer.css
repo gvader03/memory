@@ -1,0 +1,23 @@
+.footer {
+    font-size: 1rem;
+    padding: 25px;
+    height: 70px;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-top: 1px solid #404066;
+}
+
+.duck {
+    max-height: 40px;
+    max-width: 40px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-bottom: -5px;
+}
+
+h3{
+    font-size: .75rem;
+}
